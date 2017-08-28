@@ -1,3 +1,6 @@
+## Demo
+https://appetize.io/app/daac8z6a0hugn0315n6caffz9w?device=nexus5&scale=75&orientation=portrait&osVersion=7.1
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template

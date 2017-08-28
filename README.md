@@ -1,10 +1,9 @@
 ## Demo
 https://appetize.io/app/daac8z6a0hugn0315n6caffz9w?device=nexus5&scale=75&orientation=portrait&osVersion=7.1
 
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
-
 ## Como usar esse demo app
 
+# Preparando o Ambiente de Desenvolvimento
 1) Certifique-se que você possui o Node.js instalado em sua máquina. Caso não possua faça o download em [Nodejs.org](https://nodejs.org/en/).
 
 2) Certifique-se que você possui o NPM (Node Package Manager) em sua última versão. Ele é normalmente instalado em conjunto com
@@ -18,6 +17,7 @@ npm install npm@latest
 ```
 npm install -g ionic cordova
 ```
+
 
 4) Clone esse repositório
 
